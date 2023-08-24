@@ -1,3 +1,5 @@
+const readline = require('readline')
+
 class Filme {
   constructor(titulo, ano, genero, duracao, assistido, avaliacao) {
     this.titulo = titulo
@@ -60,7 +62,7 @@ const rl = readline.createInterface({
 const listaDeFilmes = new ListaFilmes()
 
 function exibirMenu() {
-  console.log('=== Menu ===')
+  console.log('*** Menu ***')
   console.log('1. Adicionar filme')
   console.log('2. Marcar filme como assistido')
   console.log('3. Avaliar filme')
