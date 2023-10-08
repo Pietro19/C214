@@ -133,6 +133,6 @@ describe('HorarioAtendimento', () => {
       'Número do prédio não pode ser calculado. O número da sala não corresponde a nenhum prédio conhecido.'
     );
   });
-    // Adicione mais cenários de falha aqui...
+   
   })
 })
