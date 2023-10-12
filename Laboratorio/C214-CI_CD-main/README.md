@@ -1,4 +1,4 @@
-[![CI Class](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
+[![CI Class](https://github.com/Pietro19/C214/blob/main/Laboratorio/C214-CI_CD-main/.github/workflows/ci.yml/badge.svg)](https://github.com/Inatel-Classes/C214-CI_CD/actions/workflows/ci.yml)
 
 # CI/CD e GitHub Actions
 
