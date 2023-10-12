@@ -15,7 +15,7 @@ describe('Testando a função multiplicacao', () => {
       expect(mockMultiplicacao).toHaveBeenCalledWith(2, 3);
   
       // Verificando o resultado da função
-      expect(resultado).toBe(5);
+      expect(resultado).toBe(6);
   
       // Restaurando a implementação original da função multiplicacao
       multiplicacao.multiplicacao = jest.fn();
