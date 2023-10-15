@@ -19,9 +19,9 @@ jobs:
           node-version: '14' # Indica a versão do node a ser instalada
 
       - name: Instalar dependências
-        working-directory: ./Laboratorio/C214-CI_CD-main
+        working-directory: ./Laboratorio/Aula05
         run: npm install # Instala as dependências necessárias
 
       - name: Executar testes
-        working-directory: ./Laboratorio/C214-CI_CD-main
+        working-directory: ./Aula05
         run: npm run test # Executa os testes
