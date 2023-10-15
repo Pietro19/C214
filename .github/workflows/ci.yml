@@ -23,5 +23,5 @@ jobs:
         run: npm install # Instala as dependências necessárias
 
       - name: Executar testes
-        working-directory: ./Aula05
+        working-directory: ./Laboratorio/Aula05
         run: npm run test # Executa os testes
